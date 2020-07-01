@@ -9,3 +9,5 @@
     - ssh-add -K ~/.ssh/id_rsa
 
 `sudo chmod +x setup.sh && sudo ./setup.sh`
+
+Remember to install Intelij
